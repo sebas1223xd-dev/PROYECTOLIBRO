@@ -19,3 +19,4 @@
 + prestamo() : boolean
 + devolucion() : boolean
 -----------------------------
+Actualización UML - commit 2
