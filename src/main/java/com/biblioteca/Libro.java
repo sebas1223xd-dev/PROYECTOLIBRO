@@ -33,4 +33,11 @@ public boolean prestar() {
 }
 
 public boolean devolver() {
-    if
+    if (numPrestados > 0) {
+        numPrestados--;
+        return true;
+    }
+    return false;
+}
+
+
