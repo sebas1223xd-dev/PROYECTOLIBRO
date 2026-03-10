@@ -1,3 +1,12 @@
+# Proyecto Libro
+
+## Integrantes
+
+- Sebastián Devia
+- Duvan Rivera
+
+
+
 # Proyecto Biblioteca - Parcial Programación II
 
 ## Descripción
