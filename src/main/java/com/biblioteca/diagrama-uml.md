@@ -18,3 +18,4 @@ Libro
 + setAutor(autor:String)
 + prestamo() : boolean
 + devolucion() : boolean
+  Corrección del diagrama - commit 3
